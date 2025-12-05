@@ -1,4 +1,4 @@
-# DarkWebTools
+# DarkWebTools  SADECE PC/ONLY FOR PC
 
 ## Installation / Kurulum
 
